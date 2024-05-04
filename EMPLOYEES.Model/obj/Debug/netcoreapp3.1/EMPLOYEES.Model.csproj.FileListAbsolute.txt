@@ -1,0 +1,17 @@
+C:\Users\astudent\source\repos\EMPLOYEES\EMPLOYEES.Model\bin\Debug\netcoreapp3.1\EMPLOYEES.DAL.dll
+C:\Users\astudent\source\repos\EMPLOYEES\EMPLOYEES.Model\obj\Debug\netcoreapp3.1\EMPLOYEES.Model.csprojAssemblyReference.cache
+C:\Users\astudent\source\repos\EMPLOYEES\EMPLOYEES.Model\obj\Debug\netcoreapp3.1\EMPLOYEES.Model.AssemblyInfoInputs.cache
+C:\Users\astudent\source\repos\EMPLOYEES\EMPLOYEES.Model\obj\Debug\netcoreapp3.1\EMPLOYEES.Model.AssemblyInfo.cs
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.Model\bin\Debug\netcoreapp3.1\EMPLOYEES.Model.deps.json
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.Model\bin\Debug\netcoreapp3.1\EMPLOYEES.Model.dll
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.Model\bin\Debug\netcoreapp3.1\EMPLOYEES.Model.pdb
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.Model\bin\Debug\netcoreapp3.1\EMPLOYEES.DAL.dll
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.Model\bin\Debug\netcoreapp3.1\EMPLOYEES.DAL.pdb
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.Model\obj\Debug\netcoreapp3.1\EMPLOYEES.Model.csproj.AssemblyReference.cache
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.Model\obj\Debug\netcoreapp3.1\EMPLOYEES.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.Model\obj\Debug\netcoreapp3.1\EMPLOYEES.Model.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.Model\obj\Debug\netcoreapp3.1\EMPLOYEES.Model.AssemblyInfo.cs
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.Model\obj\Debug\netcoreapp3.1\EMPLOYEES.Model.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.Model\obj\Debug\netcoreapp3.1\EMPLOYEES.Model.csproj.CopyComplete
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.Model\obj\Debug\netcoreapp3.1\EMPLOYEES.Model.dll
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.Model\obj\Debug\netcoreapp3.1\EMPLOYEES.Model.pdb

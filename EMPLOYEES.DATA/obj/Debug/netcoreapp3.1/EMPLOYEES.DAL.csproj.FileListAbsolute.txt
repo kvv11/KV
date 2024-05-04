@@ -1,0 +1,13 @@
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.DATA\bin\Debug\netcoreapp3.1\EMPLOYEES.DAL.deps.json
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.DATA\bin\Debug\netcoreapp3.1\EMPLOYEES.DAL.runtimeconfig.json
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.DATA\bin\Debug\netcoreapp3.1\EMPLOYEES.DAL.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.DATA\bin\Debug\netcoreapp3.1\EMPLOYEES.DAL.dll
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.DATA\bin\Debug\netcoreapp3.1\EMPLOYEES.DAL.pdb
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.DATA\obj\Debug\netcoreapp3.1\EMPLOYEES.DAL.csproj.AssemblyReference.cache
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.DATA\obj\Debug\netcoreapp3.1\EMPLOYEES.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.DATA\obj\Debug\netcoreapp3.1\EMPLOYEES.DAL.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.DATA\obj\Debug\netcoreapp3.1\EMPLOYEES.DAL.AssemblyInfo.cs
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.DATA\obj\Debug\netcoreapp3.1\EMPLOYEES.DAL.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.DATA\obj\Debug\netcoreapp3.1\EMPLOYEES.DAL.dll
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.DATA\obj\Debug\netcoreapp3.1\EMPLOYEES.DAL.pdb
+C:\Users\karlo\Desktop\vj\EMPLOYEES\EMPLOYEES.DATA\obj\Debug\netcoreapp3.1\EMPLOYEES.DAL.genruntimeconfig.cache
